@@ -1,7 +1,9 @@
 
 import { GoogleGenAI, Chat } from "@google/genai";
 
-const ai = new GoogleGenAI({ "AIzaSyAkjNedkc0jkbPuiG0OqT6d7V0aKVDSUyk" });
+const apiKey = "AIzaSyAkjNedkc0jkbPuiG0OqT6d7V0aKVDSUyk";
+
+const ai = new GoogleGenAI({ apiKey });
 
 const chat: Chat = ai.chats.create({
   model: 'gemini-2.5-flash',
