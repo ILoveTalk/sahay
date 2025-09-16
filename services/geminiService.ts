@@ -1,12 +1,14 @@
-
 import { GoogleGenAI, Chat } from "@google/genai";
 
-// Ensure the API key is available.
-if (!process.env.API_KEY) {
-  throw new Error("API_KEY environment variable is not set.");
+// The user has requested to hardcode the API key for local development.
+const apiKey = "AIzaSyAkjNedkc0jkbPuiG0OqT6d7V0aKVDSUyk";
+
+// This check ensures the app doesn't run without a key.
+if (!apiKey) {
+  throw new Error("API key is not provided in geminiService.ts");
 }
 
-const ai = "AIzaSyAkjNedkc0jkbPuiG0OqT6d7V0aKVDSUyk";
+const ai = new GoogleGenAI({ apiKey });
 
 const chat: Chat = ai.chats.create({
   model: 'gemini-2.5-flash',
