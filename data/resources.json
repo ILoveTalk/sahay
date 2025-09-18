@@ -3,7 +3,7 @@
     "title": "5-Minute Gratitude Meditation",
     "category": "Mindfulness",
     "type": "video",
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/ILoveTalk/sahay/main/assets/images/9.png",
     "description": "A quick guided meditation to cultivate a sense of gratitude and positivity in your daily life.",
     "link": ""
   },
@@ -11,7 +11,7 @@
     "title": "Deep Sleep Guided Meditation",
     "category": "Health",
     "type": "video",
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/ILoveTalk/sahay/main/assets/images/8.png",
     "description": "A soothing guided meditation to help you relax your mind and body for a night of deep, restful sleep.",
     "link": ""
   },
@@ -19,7 +19,7 @@
     "title": "Morning Positive Affirmations",
     "category": "Positivity",
     "type": "video",
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/ILoveTalk/sahay/main/assets/images/7.png",
     "description": "Start your day with these powerful positive affirmations to boost confidence and create a happy mindset.",
     "link": ""
   },
@@ -27,7 +27,7 @@
     "title": "Breathing Exercises for Calm",
     "category": "Anxiety",
     "type": "video",
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/ILoveTalk/sahay/main/assets/images/6.png",
     "description": "Simple breathing techniques you can use anytime to calm your nervous system and reduce anxiety.",
     "link": ""
   },
@@ -35,7 +35,7 @@
     "title": "Journaling for Mental Clarity",
     "category": "Focus",
     "type": "video",
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/ILoveTalk/sahay/main/assets/images/5.png",
     "description": "A video guide on how to use journaling prompts to clear your mind and organize your thoughts.",
     "link": ""
   },
@@ -43,7 +43,7 @@
     "title": "Mindful Walking for Beginners",
     "category": "Mindfulness",
     "type": "video",
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/ILoveTalk/sahay/main/assets/images/4.png",
     "description": "Learn how to turn your daily walk into a mindful practice to stay present and reduce stress.",
     "link": ""
   },
@@ -51,7 +51,7 @@
     "title": "Managing Your Emotions Effectively",
     "category": "Anxiety",
     "type": "video",
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/ILoveTalk/sahay/main/assets/images/3.png",
     "description": "Tips and strategies for recognizing and effectively managing your emotions without getting overwhelmed.",
     "link": ""
   },
@@ -59,7 +59,7 @@
     "title": "Productivity and Focus Hacks",
     "category": "Focus",
     "type": "video",
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/ILoveTalk/sahay/main/assets/images/2.png",
     "description": "Simple yet effective techniques to improve your focus and get more done in less time.",
     "link": ""
   },
@@ -67,9 +67,10 @@
     "title": "Full Body Scan for Relaxation",
     "category": "Stress",
     "type": "video",
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/ILoveTalk/sahay/main/assets/images/1.png",
     "description": "A long-form guided body scan meditation to release physical tension and promote deep relaxation.",
     "link": ""
   }
 ]
+
 
