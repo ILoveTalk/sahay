@@ -7,7 +7,7 @@ import SearchIcon from '../components/icons/SearchIcon';
 import ResourceModal from '../components/ResourceModal';
 
 const categories: ResourceCategory[] = ['Stress', 'Anxiety', 'Habits', 'Relationships'];
-const API_URL = 'https://raw.githubusercontent.com/ILoveTalk/ILoveTalk/main/websites/sahay/resources.json';
+const API_URL = 'https://raw.githubusercontent.com/ILoveTalk/sahay/main/data/resources.json';
 
 const ResourceTypeIcon: React.FC<{ type: ResourceType }> = ({ type }) => {
     const iconProps = { className: "w-5 h-5" };
